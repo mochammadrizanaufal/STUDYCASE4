@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MOCHAMMADRIZANAUFAL_1202154130_STUDYCASE4</string>
+    <string-array name="nama_mahasiswa">
+        <item>Kuuga</item>
+        <item>Agito</item>
+        <item>Ryuki</item>
+        <item>Faiz</item>
+        <item>Blade</item>
+        <item>Hibiki</item>
+        <item>Kabuto</item>
+        <item>Den-O</item>
+        <item>Kiva</item>
+        <item>Decade</item>
+        <item>W</item>
+        <item>OOO</item>
+        <item>Fourze</item>
+        <item>Wizard</item>
+        <item>Gaim</item>
+        <item>Drive</item>
+        <item>Ghost</item>
+        <item>Ex-Aid</item>
+        <item>Build</item>
+
+    </string-array>
+</resources>
